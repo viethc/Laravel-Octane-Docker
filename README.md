@@ -44,7 +44,7 @@ Exposed ports of container:
 
 1. Clone this repository:
 
-   `git clone git@github.com:exaco/laravel-octane-dockerfile.git`
+   `git clone git@github.com:viethc/laravel-octane-docker.git`
 
 2. Copy cloned directory content including `deployment` directory, `Dockerfile` and `.dockerignore` into your Octane
    powered Laravel project
